@@ -9,4 +9,4 @@
 
 꾸준히 연습하기
 
-![images 연습](.images/cat.jpg)
+![images 연습](.images/_DSC0679.jpg)
